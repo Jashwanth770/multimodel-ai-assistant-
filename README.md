@@ -18,8 +18,6 @@ The Multilingual AI Assistant project leverages cutting-edge technologies to pro
 - **Gemini 1.5 Pro** leverages the `Mixture of Experts (MoE)` architecture, enhancing its ability to process and respond to complex queries efficiently. This architecture allows the model to delegate tasks to specialized components, significantly boosting its performance and versatility.
 - With its `vast context window` and advanced architecture, **Gemini 1.5 Pro** demonstrates `superior information retrieval capabilities`. This allows for more precise and relevant outputs, particularly in tasks requiring the extraction of specific information from large datasets.
 
-![App Screenshot](https://github.com/jhaayush2004/Multimodal-AI-Assistant/blob/main/visuals/Gemini-Pro-1.5.png)
-
 ## Technologies and Tools Used:
 
 `Google Gemini-1.5-pro` : Utilized for generating contextually relevant responses across various inputs such as text, images, and videos.
@@ -38,7 +36,6 @@ The Multilingual AI Assistant project leverages cutting-edge technologies to pro
 
 `Other libraries` : Includes standard Python libraries for file handling, audio manipulation, and API integrations.
 
-![App Screenshot](https://github.com/jhaayush2004/Multimodal-AI-Assistant/blob/main/visuals/1M.jpg)
 
 ## Key features
 
@@ -134,7 +131,7 @@ The Multilingual AI Assistant project leverages cutting-edge technologies to pro
 
 ## User Interface(UI)
 
-![App Screenshot](https://github.com/jhaayush2004/Multimodal-AI-Assistant/blob/main/visuals/UI%20AI.png)
+
 
 ## Running Locally
 - Clone the repo .
@@ -144,13 +141,7 @@ The Multilingual AI Assistant project leverages cutting-edge technologies to pro
 - Run the server `python template.py` .
 - Run the server `python setup.py` after changing the information.
 - Finally, run the server `python app.py` .
-- If facing issues, message me on [LinkedIn](https://www.linkedin.com/in/ayush-shaurya-jha-949732214/?original_referer=https%3A%2F%2Fin%2Elinkedin%2Ecom%2F&originalSubdomain=in) .
-## Do visit 
- - [Live demo video of project](https://youtu.be/y87o11ayRFk)
- - [Google’s Gemini 1.5 Pro](https://medium.com/google-cloud/googles-gemini-1-5-pro-revolutionizing-ai-with-a-1m-token-context-window-bfea5adfd35f)
- - [Google AI Studio](https://ai.google.dev/aistudio)
- 
-Big kudos to **Google DeepMind** 🚀 for crafting this cutting-edge model and championing open-source innovation !!
+
 
 
 
