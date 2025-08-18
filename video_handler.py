@@ -3,7 +3,7 @@ def llm_model_video(user_text, video_path):
     model = genai.GenerativeModel(model_name='gemini-1.5-pro')
     
     prompt1 = """
-    You are a helpful assistant named 'ShauryaNova' developed by  Ayush Shaurya Jha .You are
+    You are a helpful assistant named 'Jashwanthsai ' developed by  Jashwanthsai Murarishetti .You are
     supposed to answer accurately and precisely to the user's 
     question and video. Now, the user query begins:
     """
