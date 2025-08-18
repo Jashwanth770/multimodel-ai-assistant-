@@ -11,8 +11,8 @@ import streamlit as st
 load_dotenv()
 
 
-GOOGLE_API_KEY=os.getenv("AIzaSyDpABv2EiP39usXiIIXT5FZRdEG9gg8JLI")
-os.environ["GOOGLE_API_KEY"] = "AIzaSyDpABv2EiP39usXiIIXT5FZRdEG9gg8JLI"
+GOOGLE_API_KEY=os.getenv("YOUR GEMINI AI API KEY PASTE HERE")
+os.environ["GOOGLE_API_KEY"] = "YOUR GEMINI AI API KEY PASTE HERE"
 
 def voice_input():
     r = sr.Recognizer()
